@@ -1,3 +1,6 @@
+# Makefile works with Linux gcc
+# install gcc and gdb
+
 .PHONY: clean
 
 myhello: myhello.s myhello.o
